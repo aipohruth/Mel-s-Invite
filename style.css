@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.card{
+    width: 300px;
+    margin: 15% auto;
+    background-color: white;
+    padding: 50px;
+    box-shadow:  5px 5px 12px #ececec,
+                 5px 5px 10px rgba(0, 0, 0, 0.9);
+}
+button{
+    margin: 20px 10px auto 100px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid springgreen;
+}
+button:hover{
+    background-color: springgreen;
+}
